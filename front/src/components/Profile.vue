@@ -97,10 +97,6 @@ export default {
         max-height: 100%
         max-width: 100%
   &__bid
-    &-icon
-      svg:before path
-        fill: $orange
-
     span
       color: $orange
   &-account
